@@ -27,8 +27,3 @@ Meu objetivo é construir uma base sólida em desenvolvimento de software por me
 ## Contato
 
 * LinkedIn: [https://www.linkedin.com/in/mikaella-lucindo/].
-
-## Estatíticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
